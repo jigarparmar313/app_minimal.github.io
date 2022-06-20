@@ -1,0 +1,272 @@
+@media only screen and (max-width: 1175px) {
+  .three_icon {
+    width: 100%;
+  }
+  .sixty h1 {
+    padding: 77px 240px;
+   
+  }
+}
+@media only screen and (max-width: 960px) {
+  .right_side_1 {
+    width: 100%;
+    display: block;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .container {
+    width: 100%;
+    margin: auto;
+    /* padding: 15px; */
+  }
+
+  .header {
+    width: 100%;
+    float: left;
+  }
+
+  .banner {
+    width: 100%;
+    background-image: url("img/box2bg.png");
+    background-size: cover;
+    min-height: auto;
+    margin: auto;
+    float: left;
+  }
+
+  .leftside img {
+    margin-top: 48px;
+    margin-bottom: 33px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-attachment: fixed; */
+    /* background-size: 100% 100%; */
+    width: 100%;
+  }
+
+  .rightside {
+    float: left;
+    padding: 0px;
+    margin: 0px;
+    /* margin-top: -540px; */
+    width: 100%;
+    text-align: center;
+    background: #06a49a;
+  }
+
+  .appofyear {
+    float: left;
+    width: 100%;
+    padding-bottom: 50px;
+  }
+
+  .appofyear img {
+    /* margin-right: 50px; */
+    margin-top: 51px;
+    /* float: left; */
+  }
+
+  .appofyear span {
+    text-transform: uppercase;
+    /* float: right; */
+    padding-top: 5px;
+    color: #effaf9;
+    text-align: center;
+    /* float: left; */
+    display: block;
+  }
+  .right_side_1 h1 {
+    text-transform: uppercase;
+    font-size: xx-large;
+    /* margin-top: 130px; */
+  }
+  .right_side_1 .pp {
+    /* float: left; */
+    color: white;
+  }
+  .right_side_1 .bb {
+    padding: 19px 1px;
+    width: 101px;
+    margin: auto;
+  }
+  .circle {
+    width: 425px;
+    margin: auto;
+    /* background-color: black; */
+    background-image: url("img/middleiphonecircle.png");
+    min-height: 430px;
+    background-repeat: no-repeat;
+  }
+  .circle_area {
+    float: left;
+    width: 100%;
+  }
+  .ph_img {
+    width: 73px;
+    min-height: 100px;
+    margin: auto;
+    margin-top: 74px;
+    /* margin-left: 173px; */
+  }
+  .text {
+    font-size: 31px;
+    text-align: center;
+    color: whitesmoke;
+  }
+  .horizontal .i1 img,
+  .i2 img,
+  .i3 img,
+  .i4 img,
+  .i5 img,
+  .i6 img {
+    /* width: 100%; */
+    float: right;
+    /* padding-top: 30px; */
+  }
+  .lappy img {
+    float: left;
+    margin-top: 60px;
+    width: 100%;
+  }
+  .right_side {
+    width: 100%;
+    float: left;
+    background-color: #09b5a5;
+    padding-bottom: 50px;
+  }
+  .right_side .pp {
+    margin-bottom: 10px;
+    padding-bottom: 15px;
+    float: left;
+    text-align: center;
+    width: 100%;
+  }
+  .right_side .bb {
+    padding: 19px 1px;
+    width: 150px;
+    margin: auto;
+  }
+  .sixty {
+    width: 100%;
+    float: left;
+  }
+  .sixty h1 {
+    /* text-align: center; */
+    /* width: 50%; */
+    /* padding: 77px 240px; */
+    font-size: 55px;
+    margin: auto;
+    /* min-height: auto; */
+    /* margin-left: auto; */
+    /* margin-right: auto; */
+    color: #49d7b0;
+    text-align: center;
+    padding-top: 81px;
+    padding-bottom: 80px;
+  }
+  .arrow {
+    background-image: url("img/arrowarrowbg.jpg");
+    width: 100%;
+    float: right;
+  }
+  .arrow img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  section.line {
+    border-top: 1px solid #dedede;
+    /* margin-top: -1px; */
+  }
+  .i1,
+  .i2,
+  .i3,
+  .i4,
+  .i5,
+  .i6 {
+    float: left;
+    width: 47.85%;
+    padding: auto;
+    /* min-height: auto; */
+    padding: 5px;
+    padding: auto;
+    padding: 0.5px -8px;
+  }
+  .i1 img,
+  .i2 img,
+  .i3 img,
+  .i4 img,
+  .i5 img,
+  .i6 img {
+    /* padding: 0px 45px; */
+    width: 78px;
+  }
+  .bg {
+    background-image: url("img/box2bg.jpeg");
+    width: 100%;
+    margin: auto;
+    min-height: 450px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .lappy {
+    width: 100%;
+  }
+  .lappy img {
+    float: left;
+    margin-top: 60px;
+    width: 100%;
+  }
+  .right_side {
+    width: 100%;
+    float: left;
+    background-color: #09b5a5;
+    padding-bottom: 50px;
+  }
+  .right_side h1 {
+    text-transform: uppercase;
+    font-size: xx-large;
+    margin-top: 60px;
+    text-align: center;
+    color: white;
+  }
+  .right_side .pp {
+    margin-bottom: 10px;
+    padding-bottom: 15px;
+    float: left;
+    text-align: center;
+    width: 100%;
+  }
+  .right_side .bb {
+    padding: 19px 1px;
+    width: 150px;
+    margin: auto;
+  }
+  .sixty {
+    width: 100%;
+    float: left;
+  }
+
+  .sixty h1 
+  {
+    font-size: 55px;
+    margin: auto;
+    color: #49d7b0;
+    text-align: center;
+    /* padding-top: 81px;
+    padding-bottom: 80px; */
+    padding: 81px;
+  }
+
+}
+
+@media only screen and (max-width: 490px){
+
+  .i1, .i2, .i3, .i4, .i5, .i6 {
+
+    width: 47.8%;
+ 
+}
+}
